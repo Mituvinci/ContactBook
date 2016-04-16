@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/res/merged/debug/menu/edit.xml",
+        "source": "/home/mitu/AndroidStudioProjects/ContactBook/app/src/main/res/menu/edit.xml"
+    },
+    {
+        "merged": "/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/res/merged/debug/menu/add_contact.xml",
+        "source": "/home/mitu/AndroidStudioProjects/ContactBook/app/src/main/res/menu/add_contact.xml"
+    },
+    {
+        "merged": "/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/mitu/AndroidStudioProjects/ContactBook/app/src/main/res/menu/main.xml"
+    }
+]

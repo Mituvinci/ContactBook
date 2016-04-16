@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_7f8ef3d70b80dc85c133911a2c7767a43207923c.jar" />
+    </item>
+    <item
+        jar="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_df4ef3d22a31cb3b66eb1b2499c33e6b24e64930.jar" />
+    </item>
+    <item
+        jar="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e20f85c3a4aaaba80de641b68e41abaff0386ffb">
+        <dex dex="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/pre-dexed/debug/instant-run_81c40b15b9fd62c7728a9791f08209507860b86f.jar" />
+    </item>
+    <item
+        jar="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_7a576dc759ba635ab4aba198b0ab6cf8034b5e38.jar" />
+    </item>
+    <item
+        jar="/home/mitu/android-sdk-linux/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_545d38d40e0e270bb2da0328d3b5ea72d3cbe204.jar" />
+    </item>
+    <item
+        jar="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0fa034af65adb382963aa58a4da1cd5697874a9">
+        <dex dex="/home/mitu/AndroidStudioProjects/ContactBook/app/build/intermediates/pre-dexed/debug/classes_c97eead5f631600ed57c3b417aec47c6ca926463.jar" />
+    </item>
+
+</items>
